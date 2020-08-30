@@ -45,7 +45,7 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
+⚡ **Recent Activity**
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3511](https://github.com//simple-icons/simple-icons/issues/3511) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
