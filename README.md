@@ -5,7 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-bettker-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bettker/)](https://www.linkedin.com/in/bettker/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaelvalesb@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelvalesb@gmail.com)](mailto:rafaelvalesb@gmail.com)
 
+<!--
 ![bettker's github stats](https://github-readme-stats.vercel.app/api?username=bettker&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=444444&text_color=888888&background_color=111111&icon_color=ffc83d&hide_border=true)
+-->
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
