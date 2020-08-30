@@ -10,3 +10,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3511](https://github.com//simple-icons/simple-icons/issues/3511) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+2. ❌ Closed PR [#3](https://github.com//dmag-ufsm/7wondersDataMinning/pull/3) in [dmag-ufsm/7wondersDataMinning](https://github.com//dmag-ufsm/7wondersDataMinning)
+3. 💪 Opened PR [#1](https://github.com//dmag-ufsm/7-Wonders-Neural-Net/pull/1) in [dmag-ufsm/7-Wonders-Neural-Net](https://github.com//dmag-ufsm/7-Wonders-Neural-Net)
+4. 🗣 Commented on [#5](https://github.com//dmag-ufsm/Game/issues/5) in [dmag-ufsm/Game](https://github.com//dmag-ufsm/Game)
+5. ❗️ Opened issue [#10](https://github.com//dmag-ufsm/Game/issues/10) in [dmag-ufsm/Game](https://github.com//dmag-ufsm/Game)
+<!--END_SECTION:activity-->
