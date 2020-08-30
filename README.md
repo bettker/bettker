@@ -8,6 +8,41 @@
 ![bettker's github stats](https://github-readme-stats.vercel.app/api?username=bettker&hide=stars&count_private=true&show_icons=true&include_all_commits=true&title_color=444444&text_color=888888&background_color=111111&icon_color=ffc83d&hide_border=true)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
+🌆 Daytime    102 commits    █████████░░░░░░░░░░░░░░░░   36.04% 
+🌃 Evening    127 commits    ███████████░░░░░░░░░░░░░░   44.88% 
+🌙 Night      45 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Tuesday      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Wednesday    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+Thursday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
+Saturday     81 commits     ███████░░░░░░░░░░░░░░░░░░   28.62% 
+Sunday       49 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
