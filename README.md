@@ -1,1 +1,1 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+busy developing AI-driven solutions to shape the future of the financial market.
